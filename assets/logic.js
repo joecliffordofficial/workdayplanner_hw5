@@ -88,7 +88,7 @@ $(document).ready(function() {
   }
 
   function dynamicTime() {
-    var currentTime = moment().format('HH:mm:ss');
+    var currentTime = moment().format('MMMM Do YYYY, h:mm:ss a');
     $('#dynamic-time').text(currentTime);
     setInterval(dynamicTime, 1000);
   }
