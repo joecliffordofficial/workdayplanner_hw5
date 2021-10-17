@@ -59,7 +59,7 @@ $(document).ready(function() {
     if (day < 0) {
       $('#title-date').html(differentDate);
       $('#title-time').html(
-        'Here is what your schedule looked like for this day.'
+        'Here is what your schedule looked like this day.'
       );
       $('#dynamic-time').hide();
 
@@ -72,7 +72,7 @@ $(document).ready(function() {
       currentYear = nextDate.format('YYYY');
       $('#title-date').html(differentDate);
       $('#title-time').html(
-        'Here is what your schedule looks like for this day so far.'
+        'Here is what your schedule looks like going forward.'
       );
       $('#title-year').html(currentYear);
       $('#dynamic-time').hide();
