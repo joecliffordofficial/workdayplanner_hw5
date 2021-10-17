@@ -19,7 +19,7 @@ For this assignment we were tasked to build a daily planner. I decided to build 
 
 Here is a few images of the page itself, and of course the links as well! 
 
-[WorkDay Planner]()
+[WorkDay Planner](https://joecliffordofficial.github.io/workdayplanner_hw5/)
 [Repository](https://github.com/joecliffordofficial/workdayplanner_hw5)
 
 <img src="./assets/images/screenShot1.png">
